@@ -4,6 +4,6 @@
 		"logo": "images/polines-logo.png",
         "major": "D-III Electronic engineering",
         "year": "2022 - 2025",
-        "description": "Menyelesaikan masa studi D-III Teknik Elektronika dengan judul Tugas Akhir "
+        "description": "Menyelesaikan masa studi D-III Teknik Elektronika dengan judul Tugas Akhir Modul Kendali Pendulum dengan menggunakan PID Berbasis Mikrokontroller STM32"
     }
 ]
