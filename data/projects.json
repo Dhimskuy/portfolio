@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Prototipe Sistem Pelabuhan Pintar",
+        "year": "2025",
+        "partner": "MAN 1 CILACAP",
+        "role": "Project Lead",
+        "description": "Meciptakan sebuah sistem pintar pada sebuah kawasan pelabuhan seperti peringatan dini banjir rob, pengaktifan penerangan kawasan pelabuhan secara otomatis.",
+        "image": "images/projecta.jpg"
+    },
+    {
+        "title": "Sistem pendeteksi Wajah Menggunakan Masker dengan memanfaatkan Artificial Intelegent ",
+        "year": "2024",
+        "partner": "PT.Racer Robotic Indonesia",
+        "role": "Project Lead",
+        "description": "Memanfaatkan Artificial Intelegent sebagai alat deteksi awal pada fasilitas umum saat pandemi Covid-19. Dengan adanya projek ini diharapkan dapat mengurangi interaksi antara petugas atau penjaga fasilitas umum dengan pengguna fasilitas umum selain itu juga dapat mengontrol dan mengingatkan masyarakat yang belum menggunakan masker untuk segera menggunakan maskernya di tempat umum.",
+        "image": "images/projecta2.png"
+    },
+	{
+        "title": "Seminar AI dan Robotik dengan judul Pembelajaran Aktif dan Menyenangkan dengan Robotik di Kelas ",
+        "year": "2024",
+        "partner": "PT.Racer Robotic Indonesia x Indobot Academy",
+        "role": "Trainer",
+        "description": "Seminar ini bertujuan untuk membekali guru dari tingkat SD hingga SMA dengan pemahanan dan keterampilan dasar mengenai penggunaan robotik sebagai media pembelajaran yang aktif, kreatif dan menyenangkan bagi siswa.",
+        "image": "images/projecta3.jpg"
+    }
+    
+]

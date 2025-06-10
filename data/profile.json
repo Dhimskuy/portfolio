@@ -1,0 +1,37 @@
+{
+    "name": "Dhimas Alfian Sahara - Electronics Engineering",
+    "description": "Saya adalah lulusan Diploma III Teknik Elektronika dengan latar belakang pendidikan dan pengalaman yang berfokus pada sistem elektronika, pemrograman mikrokontroler, serta perancangan dan pengembangan perangkat keras. Saya memiliki keterampilan teknis dalam merancang, mengimplementasikan, dan memelihara sistem berbasis elektronika dan otomasi yang efisien dan aplikatif. Selama masa studi, saya terbiasa bekerja dengan berbagai perangkat dan platform seperti Arduino, PLC, sensor, aktuator, serta memanfaatkan perangkat lunak desain dan simulasi seperti Proteus dan EAGLE untuk mendukung proses perancangan sistem elektronik. Keterampilan ini mendukung saya dalam menyelesaikan berbagai proyek yang melibatkan integrasi antara perangkat keras dan perangkat lunak. Saya memiliki ketertarikan dan pengalaman dalam pengembangan sistem otomasi, teknologi Internet of Things (IoT), serta robotika, dengan pendekatan yang menekankan solusi praktis untuk kebutuhan industri maupun sosial. Kemampuan untuk bekerja secara mandiri maupun kolaboratif dalam tim, serta sikap disiplin, teliti, dan bertanggung jawab, menjadi nilai tambah dalam menyelesaikan pekerjaan secara profesional. Selain kompetensi teknis, saya juga memiliki komitmen yang kuat untuk terus mengikuti perkembangan terbaru dalam bidang rekayasa komputer dan elektronika, serta berupaya menerapkan inovasi tersebut dalam kehidupan nyata guna memberikan dampak positif bagi masyarakat. Saya percaya bahwa keahlian dalam bidang teknologi tidak hanya sebatas pada penerapan di dunia industri, tetapi juga dapat digunakan sebagai alat untuk menginspirasi, memberdayakan, dan menciptakan solusi nyata yang bermanfaat luas. Oleh karena itu, saya terus berusaha mengembangkan diri dan berkontribusi aktif dalam pengembangan teknologi yang relevan, aplikatif, dan berdampak.",
+    "profileImage": "images/profile.jpg",
+    "email": "dhimasalfian1@gmail.com",
+    "phone": "+62 (858) 684-88816",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/dhimas-alfian48"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/dhimskuy"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://twitter.com/sukanasikok"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 65},
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 93},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 80},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 90},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 87},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 92}
+    ]
+}
