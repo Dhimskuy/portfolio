@@ -1,26 +1,26 @@
 [
     {
-        "title": "Prototipe Sistem Pelabuhan Pintar",
+        "title": "Smart Port System Prototype",
         "year": "2025",
         "partner": "MAN 1 CILACAP",
         "role": "Project Lead",
-        "description": "Meciptakan sebuah sistem pintar pada sebuah kawasan pelabuhan seperti peringatan dini banjir rob, pengaktifan penerangan kawasan pelabuhan secara otomatis.",
+        "description": "Creating a smart system in a port area such as early warning of tidal flooding, automatic activation of port area lighting.",
         "image": "images/projecta.jpg"
     },
     {
-        "title": "Sistem pendeteksi Wajah Menggunakan Masker dengan memanfaatkan Artificial Intelegent ",
+        "title": "Face Detection System Using Mask by Utilizing Artificial Intelligence",
         "year": "2024",
         "partner": "PT.Racer Robotic Indonesia",
         "role": "Project Lead",
-        "description": "Memanfaatkan Artificial Intelegent sebagai alat deteksi awal pada fasilitas umum saat pandemi Covid-19. Dengan adanya projek ini diharapkan dapat mengurangi interaksi antara petugas atau penjaga fasilitas umum dengan pengguna fasilitas umum selain itu juga dapat mengontrol dan mengingatkan masyarakat yang belum menggunakan masker untuk segera menggunakan maskernya di tempat umum.",
+        "description": "Utilizing Artificial Intelligence as an early detection tool in public facilities during the Covid-19 pandemic. With this project, it is expected to reduce interaction between officers or guards of public facilities with users of public facilities, in addition to being able to control and remind people who have not used masks to immediately use their masks in public places.",
         "image": "images/projecta2.png"
     },
 	{
-        "title": "Seminar AI dan Robotik dengan judul Pembelajaran Aktif dan Menyenangkan dengan Robotik di Kelas ",
+        "title": "AI and Robotics Seminar with the title Active and Fun Learning with Robotics in the Classroom",
         "year": "2024",
         "partner": "PT.Racer Robotic Indonesia x Indobot Academy",
         "role": "Trainer",
-        "description": "Seminar ini bertujuan untuk membekali guru dari tingkat SD hingga SMA dengan pemahanan dan keterampilan dasar mengenai penggunaan robotik sebagai media pembelajaran yang aktif, kreatif dan menyenangkan bagi siswa.",
+        "description": "This seminar aims to equip teachers from elementary to high school levels with basic understanding and skills regarding the use of robotics as an active, creative and enjoyable learning medium for students.",
         "image": "images/projecta3.jpg"
     }
     
