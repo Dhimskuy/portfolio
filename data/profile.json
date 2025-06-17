@@ -26,12 +26,12 @@
     "skills": [
         {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 65},
         {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 93},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 80},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 90},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 87},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 92}
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 70},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 73},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 70},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 70},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 77},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 82}
     ]
 }
